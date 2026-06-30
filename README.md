@@ -2,7 +2,7 @@
 
 **Does an Airbnb listing's price in Brussels depend more on its location (commune) or its room type?**
 
-This is my data analyst capstone project for the Syntra AB Data Analyst diploma. I built the full pipeline — from raw data to an interactive dashboard — to answer one clear business question.
+This is my data analyst capstone project for the Syntra AB Data Analyst diploma. I built the full pipeline — from raw data to an interactive dashboard to answer one clear business question.
 
 ---
 
@@ -41,7 +41,7 @@ Python (Pandas) · SQL · Power BI · Star schema · Inside Airbnb dataset
 Location was the stronger driver of price overall, but room type dominated within the city centre.
 
 ## 🗣️ Defense
-I presented and defended every analytical decision — granularity, median vs. mean, star schema design, and outlier handling — before an evaluation panel.
+I presented and defended every analytical decision: granularity, median vs. mean, star schema design, and outlier handling  before an evaluation panel.
 
 ---
 
